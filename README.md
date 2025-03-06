@@ -1,7 +1,6 @@
 # Hi, everyone!  
 
-My name is Siti Khoiriati.  
-I’m currently learning at Sriwijaya State Polytechnic majoring in management informatics.  
+My name is Siti Khoiriati.   
 My focus is to become a web developer.
 
 <p align="left">
